@@ -4,6 +4,8 @@
 
 ### Best Grass Cutting Patterns for Various Lawn Shapes and Sizes
 
+#
+
 1. Rectangular/Square Lawns:
    
 Small to Medium Size:

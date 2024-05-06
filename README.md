@@ -16,7 +16,7 @@ Large Size:
 - Striping: Similar to smaller lawns but may require more precise turning at ends.
 - Checkered: Mow in one direction (e.g., north-south), then mow perpendicularly (e.g., east-west) on the next session.
 
-3. Circular or Irregular Lawns:
+2. Circular or Irregular Lawns:
    
 Small to Medium Size:
 
@@ -27,13 +27,13 @@ Large Size:
 Spiral: Begin with wider arcs and progressively tighten the spiral as you move inward.
 Large circles to smaller spirals: Start with large circular patterns, transitioning to smaller, tighter spirals.
 
-5. Narrow or Long Lawns:
+3. Narrow or Long Lawns:
 
 All Sizes:
 
 Straight Lines: Mow in long, straight lines along the length of the lawn to minimize turning.
 
-6. Complex Shaped Lawns (with multiple flower beds or obstacles):
+4. Complex Shaped Lawns (with multiple flower beds or obstacles):
 
 All Sizes:
 
